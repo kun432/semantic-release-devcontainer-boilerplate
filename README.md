@@ -1,1 +1,2 @@
-# alexa-python-devcontainer-boilerplate
+# semantic-release-devcontainer-boilerplate
+
